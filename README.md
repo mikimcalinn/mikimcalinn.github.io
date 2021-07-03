@@ -1,4 +1,4 @@
-## Hello, this is Miki McAlinn's homepage!
+## Portfolio
 
 You can use the [editor on GitHub](https://github.com/mikimcalinn/mikimcalinn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
